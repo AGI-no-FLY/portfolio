@@ -81,11 +81,10 @@ h1 {
 
 h2 {
     font-size: 72px;
-    color: #333;
     box-sizing: border-box;
     text-align: center;
     display: table-cell;
-    /* vertical-align: middle; */
+    vertical-align: middle;
 
 }
 
@@ -252,7 +251,7 @@ Works
 =============== */
 
 
-/* .contents__title {
+.contents__title {
     background-size: cover;
     background-clip: text;
     -webkit-background-clip: text;
@@ -266,7 +265,7 @@ Works
 .works__title {
     background-image: url(../images/jupiter.jpg);
     background-position: center;
-} */
+}
 
 
 .works_grid {
@@ -300,10 +299,10 @@ h4 {
 /* ============
 skill
 =============== */
-/* .skill__title {
+.skill__title {
     background-image: url(../images/mars.jpg);
     background-position: center;
-} */
+}
 
 
 h3 {
@@ -370,11 +369,11 @@ h3 {
 profile
 =============== */
 
-/* .profile__title {
+.profile__title {
     background-image: url(../images/saturn.jpg);
     background-position: center;
 }
- */
+
 
 aside,
 article {
@@ -423,11 +422,11 @@ article dl dd {
 contact
 =============== */
 
-/* .contact__title {
+.contact__title {
     background-image: url(../images/moon.jpg);
     background-position: center;
-    -webkit-text-stroke: 0.1px #333;
-} */
+    /* -webkit-text-stroke: 0.1px #333; */
+}
 
 
 #contact {
